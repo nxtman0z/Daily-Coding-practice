@@ -36,5 +36,4 @@ Here, I commit **daily** to improve my coding skills, explore new concepts, and 
 1. Clone this repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/daily-coding-practice.git
-
-
+....
